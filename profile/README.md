@@ -71,7 +71,9 @@ BodyClick의 AI는 **RAG(Retrieval-Augmented Generation)** 구조를 사용합�
 * **AI**: Gemini API (RAG-based)
 * **Infrastructure**: AWS EC2 Runtime Environment
 
-![BodyClick System Architecture](./assets/BodyClick_architecture.png)
+![BodyClick System Architecture](
+https://raw.githubusercontent.com/ORG_OR_USER/BodyClick-FE/main/bodyclick/assets/BodyClick_architecture.png
+)
 
 > **Figure.** Overall system architecture of BodyClick, including Next.js full-stack application,  
 > session-based authentication, RAG-based AI pipeline, and external services.
