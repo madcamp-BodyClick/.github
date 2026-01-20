@@ -111,12 +111,7 @@ BodyClick은
 
 ## 👥 Our Team
 
-🧑🏻‍💻 **신원영** (Wonyoung Shin)
-Dept. of Information System, Hanyang University
-**Frontend Developer**
-
----
-
-🧑🏻‍💻 **최영운** (YeongUn Choi)
-School of Computing, Korea Advanced Institute of Science and Technology
-**Backend Developer**
+| Name | Affiliation | Role |
+|---|---|---|
+| 🧑🏻‍💻 **신원영** (Wonyoung Shin) | Dept. of Information System, Hanyang University | Frontend Developer |
+| 🧑🏻‍💻 **최영운** (YeongUn Choi) | School of Computing, Korea Advanced Institute of Science and Technology | Backend Developer |
