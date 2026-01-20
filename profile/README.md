@@ -71,6 +71,11 @@ BodyClick의 AI는 **RAG(Retrieval-Augmented Generation)** 구조를 사용합�
 * **AI**: Gemini API (RAG-based)
 * **Infrastructure**: AWS EC2 Runtime Environment
 
+![BodyClick System Architecture](./assets/BodyClick_architecture.png)
+
+> **Figure.** Overall system architecture of BodyClick, including Next.js full-stack application,  
+> session-based authentication, RAG-based AI pipeline, and external services.
+
 ---
 
 ## 🚀 Key Features
@@ -113,5 +118,5 @@ BodyClick은
 
 | Name | Affiliation | Role |
 |---|---|---|
-| 🧑🏻‍💻 **신원영** (Wonyoung Shin) | Dept. of Information System, Hanyang University | Frontend Developer |
-| 🧑🏻‍💻 **최영운** (YeongUn Choi) | School of Computing, Korea Advanced Institute of Science and Technology | Backend Developer |
+| **신원영** | Dept. of Information System, Hanyang University | Frontend Developer |
+| **최영운** | School of Computing, Kaist | Backend Developer |
