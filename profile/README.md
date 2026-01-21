@@ -120,4 +120,4 @@ BodyClick은
 | Name | Affiliation | Role |
 |---|---|---|
 | **신원영** | Dept. of Information System, Hanyang University | Frontend Developer |
-| **최영운** | School of Computing, Kaist | Backend Developer |
+| **최영운** | School of Computing, KAIST | Backend Developer |
